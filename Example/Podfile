@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RPTInteractiveView_Example' do
+  pod 'RPTInteractiveView', :path => '../'
+
+  target 'RPTInteractiveView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
