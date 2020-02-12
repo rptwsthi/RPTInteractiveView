@@ -1,0 +1,16 @@
+PODS:
+  - RPTInteractiveView (0.1.0)
+
+DEPENDENCIES:
+  - RPTInteractiveView (from `../`)
+
+EXTERNAL SOURCES:
+  RPTInteractiveView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RPTInteractiveView: 091117a1a4e57088e0b0b3fe40ecbc840036b4c6
+
+PODFILE CHECKSUM: 88d1b87e6d0c9921855fc4818abc630d5d5b1b0e
+
+COCOAPODS: 1.8.4

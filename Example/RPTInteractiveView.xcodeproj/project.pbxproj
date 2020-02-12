@@ -15,6 +15,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		6CA3C0AD8BDD7999BF82A7E4 /* Pods_RPTInteractiveView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 837950234A4D9C8A0058B460 /* Pods_RPTInteractiveView_Tests.framework */; };
+		93529EC323F3F6EF0009F25F /* HowInterativeViewWorks.gif in Resources */ = {isa = PBXBuildFile; fileRef = 93529EC223F3F6EF0009F25F /* HowInterativeViewWorks.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,7 +30,7 @@
 
 /* Begin PBXFileReference section */
 		1BF1A66A74F763AB248F2C3D /* Pods-RPTInteractiveView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RPTInteractiveView_Tests.release.xcconfig"; path = "Target Support Files/Pods-RPTInteractiveView_Tests/Pods-RPTInteractiveView_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		29191F5C5EDA5BC3A0FA9404 /* RPTInteractiveView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RPTInteractiveView.podspec; path = ../RPTInteractiveView.podspec; sourceTree = "<group>"; };
+		29191F5C5EDA5BC3A0FA9404 /* RPTInteractiveView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RPTInteractiveView.podspec; path = ../RPTInteractiveView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		49D5FBBCA70A32548FA15690 /* Pods-RPTInteractiveView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RPTInteractiveView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-RPTInteractiveView_Tests/Pods-RPTInteractiveView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* RPTInteractiveView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RPTInteractiveView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -42,10 +43,11 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		837950234A4D9C8A0058B460 /* Pods_RPTInteractiveView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RPTInteractiveView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93529EC223F3F6EF0009F25F /* HowInterativeViewWorks.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HowInterativeViewWorks.gif; sourceTree = "<group>"; };
 		A25853486F2539BFEAC58EFC /* Pods_RPTInteractiveView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RPTInteractiveView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B376BDC79D5A28EF5E694A0B /* Pods-RPTInteractiveView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RPTInteractiveView_Example.debug.xcconfig"; path = "Target Support Files/Pods-RPTInteractiveView_Example/Pods-RPTInteractiveView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		CF5A797161C8EE642AB3CC9D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		E231647DFF846124084B661C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		CF5A797161C8EE642AB3CC9D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E231647DFF846124084B661C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F14BC7BC8C093B3046822069 /* Pods-RPTInteractiveView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RPTInteractiveView_Example.release.xcconfig"; path = "Target Support Files/Pods-RPTInteractiveView_Example/Pods-RPTInteractiveView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -133,6 +135,7 @@
 		607FACE91AFB9204008FA782 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				93529EC223F3F6EF0009F25F /* HowInterativeViewWorks.gif */,
 				607FACEA1AFB9204008FA782 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -156,7 +159,6 @@
 				49D5FBBCA70A32548FA15690 /* Pods-RPTInteractiveView_Tests.debug.xcconfig */,
 				1BF1A66A74F763AB248F2C3D /* Pods-RPTInteractiveView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +229,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93529EC323F3F6EF0009F25F /* HowInterativeViewWorks.gif in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
@@ -480,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RPTInteractiveView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 0.1.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -495,6 +500,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RPTInteractiveView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 0.1.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";

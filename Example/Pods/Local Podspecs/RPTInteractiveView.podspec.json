@@ -1,0 +1,22 @@
+{
+  "name": "RPTInteractiveView",
+  "version": "0.1.0",
+  "summary": "A short description of RPTInteractiveView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rptwsthi/RPTInteractiveView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rptwsthi": "arpit@technologies33.com"
+  },
+  "source": {
+    "git": "https://github.com/rptwsthi/RPTInteractiveView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RPTInteractiveView/Classes/**/*"
+}

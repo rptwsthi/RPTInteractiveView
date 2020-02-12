@@ -1,0 +1,6 @@
+framework module Pods_RPTInteractiveView_Tests {
+  umbrella header "Pods-RPTInteractiveView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

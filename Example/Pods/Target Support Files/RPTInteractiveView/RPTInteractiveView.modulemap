@@ -1,0 +1,6 @@
+framework module RPTInteractiveView {
+  umbrella header "RPTInteractiveView-umbrella.h"
+
+  export *
+  module * { export * }
+}
