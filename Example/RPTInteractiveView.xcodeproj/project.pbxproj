@@ -16,6 +16,9 @@
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		6CA3C0AD8BDD7999BF82A7E4 /* Pods_RPTInteractiveView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 837950234A4D9C8A0058B460 /* Pods_RPTInteractiveView_Tests.framework */; };
 		93529EC323F3F6EF0009F25F /* HowInterativeViewWorks.gif in Resources */ = {isa = PBXBuildFile; fileRef = 93529EC223F3F6EF0009F25F /* HowInterativeViewWorks.gif */; };
+		93529EC723F43BC60009F25F /* CL3-FinalStep POD Pushed.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 93529EC423F43BC50009F25F /* CL3-FinalStep POD Pushed.rtf */; };
+		93529EC823F43BC60009F25F /* CL1-CreateProject.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 93529EC523F43BC60009F25F /* CL1-CreateProject.rtf */; };
+		93529EC923F43BC60009F25F /* CL2-ValidatePod.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 93529EC623F43BC60009F25F /* CL2-ValidatePod.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		837950234A4D9C8A0058B460 /* Pods_RPTInteractiveView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RPTInteractiveView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		93529EC223F3F6EF0009F25F /* HowInterativeViewWorks.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = HowInterativeViewWorks.gif; sourceTree = "<group>"; };
+		93529EC423F43BC50009F25F /* CL3-FinalStep POD Pushed.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "CL3-FinalStep POD Pushed.rtf"; sourceTree = "<group>"; };
+		93529EC523F43BC60009F25F /* CL1-CreateProject.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "CL1-CreateProject.rtf"; sourceTree = "<group>"; };
+		93529EC623F43BC60009F25F /* CL2-ValidatePod.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "CL2-ValidatePod.rtf"; sourceTree = "<group>"; };
 		A25853486F2539BFEAC58EFC /* Pods_RPTInteractiveView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RPTInteractiveView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B376BDC79D5A28EF5E694A0B /* Pods-RPTInteractiveView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RPTInteractiveView_Example.debug.xcconfig"; path = "Target Support Files/Pods-RPTInteractiveView_Example/Pods-RPTInteractiveView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		CF5A797161C8EE642AB3CC9D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
@@ -135,6 +141,9 @@
 		607FACE91AFB9204008FA782 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				93529EC523F43BC60009F25F /* CL1-CreateProject.rtf */,
+				93529EC623F43BC60009F25F /* CL2-ValidatePod.rtf */,
+				93529EC423F43BC50009F25F /* CL3-FinalStep POD Pushed.rtf */,
 				93529EC223F3F6EF0009F25F /* HowInterativeViewWorks.gif */,
 				607FACEA1AFB9204008FA782 /* Info.plist */,
 			);
@@ -250,9 +259,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				93529EC323F3F6EF0009F25F /* HowInterativeViewWorks.gif in Resources */,
+				93529EC823F43BC60009F25F /* CL1-CreateProject.rtf in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
+				93529EC723F43BC60009F25F /* CL3-FinalStep POD Pushed.rtf in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
+				93529EC923F43BC60009F25F /* CL2-ValidatePod.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
