@@ -5,11 +5,20 @@
 [![License](https://img.shields.io/cocoapods/l/RPTInteractiveView.svg?style=flat)](https://cocoapods.org/pods/RPTInteractiveView)
 [![Platform](https://img.shields.io/cocoapods/p/RPTInteractiveView.svg?style=flat)](https://cocoapods.org/pods/RPTInteractiveView)
 
+## Why?
+RPTInteractiveView give a simple UIView power of 
+  - moving, 
+  - zooming and 
+  - rotating. 
+
+You can simply set a UIView class of your RPTInteractiveView and see the magic happning.
+
 ## Example
+
+  ![In action](https://github.com/rptwsthi/RPTInteractiveView/blob/master/Example/Tests/HowInterativeViewWorks.gif)
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
 
 ## Installation
 
@@ -22,7 +31,7 @@ pod 'RPTInteractiveView'
 
 ## Author
 
-rptwsthi, arpit@technologies33.com
+Arpit Aawsthi, awasthi.arp@gmail.com
 
 ## License
 
