@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RPTInteractiveView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'RPTInteractiveView give a simple UIView power of moving, zooming and rotating.'
   
   # set the swift value
