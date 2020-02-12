@@ -31,7 +31,7 @@ pod 'RPTInteractiveView'
 
 ## Author
 
-Arpit Aawsthi, awasthi.arp@gmail.com
+Arpit Awasthi, awasthi.arp@gmail.com
 
 ## License
 
